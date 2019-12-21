@@ -23,11 +23,16 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
-    <!-- For Tablet/Landscape Styles Support for Parent/Main Activity -->
-    <style name="SportsDetailText" parent="TextAppearance.AppCompat.Subhead" />
+    <!-- For Tablet/Landscape Styles Support -->
+    <style name="SportsDetailText" parent="TextAppearance.AppCompat.Headline" />
 
-    <style name="SportsTitle" parent="TextAppearance.AppCompat.Headline"/>
+    <style name="SportsTitle" parent="TextAppearance.AppCompat.Display1">
+        <!-- The question mark ells Android runtime to find he value in the theme applied to the view -->
+        <item name="android:textColor">?android:textColorPrimary</item>
+    </style>
 
     <!-- For Tablet/Landscape Styles Support for Second/Detail Activity -->
-    <style name="SportsDetailTitle" parent="TextAppearance.AppCompat.Headline" />
+    <style name="SportsDetailTitle" parent="TextAppearance.AppCompat.Display3">
+        <item name="android:textColor">?android:textColorPrimary</item>
+    </style>
 </resources>
