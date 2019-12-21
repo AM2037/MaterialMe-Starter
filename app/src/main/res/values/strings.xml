@@ -61,4 +61,79 @@
         <item>@drawable/img_tabletennis</item>
         <item>@drawable/img_tennis</item>
     </array>
+
+
+    <string name="baseball_details">Baseball is a team sport comprised on 9 innings, or segments of the game, where the main objective is to make home runs, or full rotations around each of the 4 bases.
+            Players are positioned across the field at specific areas depending on what role they are heading: fielding, pitching, batting, umpiring, etc. The batting team\'s main
+            goal is to have the current batter hit pitched, or thrown, baseball and while that ball is being passed between members, have another team member run to each base until
+            eventually reaching the coveted home run, if they do. The fielding team, or defensive team, attempts to prevent batters from becoming runners, or keep them from making it
+            all the way around the bases.</string>
+    <string name="badminton_details">Badminton is a sport consisting of racquets and small balls with net-like things on top called shuttlecocks. The goal is to hit the ball, or shuttlecock, over a net.
+            This game is commonly played as what\'s called singles (one player per side of net) or doubles (2 players on each side), although it may be played using larger teams.
+            This is typically played outside but you can essentially play anywhere. If you\'re tracking score, points are earned if the shuttlecock is bounced off the racquet and hits
+            the floor of the opponent\'s (or opposing side\'s) floor space within the bounds (if playing a formal game with boundaries marked). A play is considered over if either this
+            happens or a foul play (called a fault) is called. The reason for the ball being a shuttlecock is due to it\'s unique feathered appearance which gives it better height.
+            Another word for this is "drag" which is another way of saying it decelerates quicker than a different kind of ball. This also allows them greater speed.
+        </string>
+    <string name="basketball_details">Basketball is a limited contact sport with ten total team members divided into two teams. These games can either be played indoor or outdoor, formally or informally.
+            In a formal setting, the game is delineated by marked bounds and lines on the hardwood floor showing where things like free throws, 2 and 3 pointers, etc. Each team has a
+            separate goal at either end of the court which have backboards to assist landing the shots, of which the other team needs to block dunks. Points are awarded for balls making
+            it through the hoop for each team\'s respective side. A field goal can be worth either 2 or 3 points, depending on where it was shot from (as per the lines mentioned earlier).
+            To move the basketball across the court, players can either pass to each other and/or dribble, or bounce, it. It\'s referred to as travelling if the players hold onto the ball
+            while walking or running across the court, and this ranges from frowned upon to grounds for a foul. A foul is called when a player breaks a rule or hurts another player to
+            advance the play and this is determined by a referee. The winning team is determined by whichever team scored the most points by the end of game, unless it\'s a tie in which
+            case overtime, or extended play, begins. Outdoor basketball, or hooping, is typically played outside (although there are exceptions). These games can either follow the above
+            rules or be modified according to the teams\' own set of rules. This is considered a cult sport as in revered worldwide both professionally and otherwise.
+        </string>
+    <string name="bowling_details">Bowling can either be a tournament style sport or played recreationally. It is usually played inside where there are several lanes, either open or with guardrails. The
+            objective is to throw/roll a bowling ball (a large marble/ceramic ball with 3 holes in the shape of a triangle for your thumb and forefingers. Points are awarded based on
+            how many pins (or some other target) you can knock down. Knocking them all down the first turn out of 2 is called a strike, and knocking down every pin but one on the 2nd
+            roll a spare. Each player gets 2 rolls each. In target bowling, or bowling played inside or outside, the aim is to get as close to the mark as possible. This is a very
+            popular sport, played by over 100 million people worldwide both live and in video games.
+        </string>
+    <string name="cycling_details">Cycling, aka biking or bicycling, is the act of bicycling as a form of transportation, fun, exercise or sport. These people are commonly called cyclists or bikers, and
+            can use bikes with any number of wheels (1, 2, 3, etc). This has been around since the 19th century and continues to grow in popularity, particularly in urban spaces where
+            vehicle transportation is not as preferable. People can either bike in a competition or short and long distances, depending on their needs. All of this together not only
+            reduces pollution from fossil fuels, but also has significant health benefits including reduced risk for heart disease, certain cancers, and even diabetes which run high in
+            populations or individuals leading a more sedentary, or stationary, lifestyle.
+        </string>
+    <string name="golf_details">Golf can either be played alone or on a team. It can be professional or less formal (i.e. mini golf). The main objective is to use a club (several sizes and weights are
+            available for these) to hit a small golf ball off a tee (the ball stand) on the ground into a hole. Hitting it into a hole on the first try is appropriately named a
+            hole-in-one. It was created in the 15th century UK, and was introduced as an Olympic sport as early as the 1900s. What sets this game apart from others is the terrain on which
+            it is played. The appeal of this game is largely due to how varied these terrains can be between holes. They can include hilly fields, installations, ponds and lakes, sand traps,
+            rocky terrain, and more. Games can either be played by stroke play, or playing for the least number of strokes (or contact with the ball from the club) as possible, or match play,
+            or the lowest score on the most individual holes in a complete round.
+        </string>
+    <string name="running_details">Running as a sport has taken several forms. There\'s marathon running, which is where a lot of people essentially compete to cross the finish line. These can be anywhere from one
+            hundreds of miles, and can oftentimes be in support of a cause or charity. There\'s also another form of competition running, which features something called sprints in short rapid
+            intervals of track. The runners compete to see who finishes the sprint the fastest so it\'s a similar idea although slightly different. In this version there are several legs of the
+            race. You will also see running as a feature of many other sports. Running can also be a form of exercise, whether on the treadmill, just around your town or as a means to transport
+            yourself somewhere.
+        </string>
+    <string name="soccer_details">Soccer is a worldwide phenomenon. In the states several organizations head it such as the USSF, or United States Soccer Federation, the NCAA, and the National Federation of High
+            Schools. Teams are split by gender nationally. With over 9000 clubs and over 4 million registered players in the states alone it\'s clear how popular it is as a sport. Essentially, it
+            consists of kicking a ball around the field, whereas the objective is for each team to make it into the goal. However, the catch is no hands allowed. The goalie, or guard of the goal,
+            can deflect the ball thereby effectively thwarting the opposing side\'s points. Similar to basketball, the ball may be passed from player to player via kicking and rolling. Since the US
+            hosted the FIFA world cup (which is like the superbowl of soccer, if you were to compare it to traditional football) it\'s soared in popularity here. The highest level men can achieve in
+            this sport is Major League Soccer or MLS which so happens to be the largest 1st division league in the world, with the 3rd highest attendance rate following the NFL and MLB (or National
+            Football League and Major League Baseball, respectively).
+        </string>
+    <string name="swimming_details">Swimming can either be an individual or team sport. In a team setting, each individual race against each other in their own lanes in a sort of 100 meter relay which repeats 4 times,
+            at least at the Olympic level. Lower level competitions are held in a similar fashion. The swimmers dive either off the edge or off a board and are timed by judges with stopwatches to
+            get the most accurate timing possible. This sport is considered the most popular of Olympic sports, as well as holds a lot of weight with schools and colleges. There are several styles
+            of swimming incorporated in these relays, such as the butterfly, the breaststroke, backstroke, and freestyle. There\'s also something called a medley relay, which comprises 4 swimmers
+            swimming a different stoke of the ones listed above which each require a strict set of techniques. Similarly strict is the dress code at these events. Even swimming caps worn are regulated.
+            This sport has a lot of potential benefits health wise but also comes with a hefty risk of injury, particularly to do with the shoulders and knees among other things.
+        </string>
+    <string name="table_tennis_details">Table Tennis, also known as Ping Pong, is where 4 players hit a ping pong ball back and forth each attempting to score points by hitting it over the net and bouncing off the opposition\'s
+            side of the table with rackets. Similar to Badminton, games can be either singles or doubles, meaning one or two players on each side each. It was first played in the 80s in Victorian England
+            but has become popular in many countries since then. Points are incurred when players fail to return the ball in the rules. Basically, you want to bounce it once on your side and at least once
+            on the other side of the table to do so. This game progresses fairly quickly and can get quite competitive. Spinning the ball is a great technique to get creative with the trajectory and mess
+            with your opponent. This sport is held both in the Olympics and Paralympics.
+        </string>
+    <string name="tennis_details">Tennis is another highly respected racquet, or racket, sport. This game features singles, doubles, and team player structures. Similar to table tennis, the objective is to hit a tennis ball
+            over a net and bounce on the opponent\'s (or opponents\') side. It\'s particularly popular as a women\'s sport but features all genders. You may have heard of it through Wimbledon, a massive tennis
+            tournament. This can be played as an indoor or outdoor sport. Like table tennis, the main objective is to make it so the opponent/s have a difficult time returning the ball in a valid manner.
+            Recently there\'s been a modification to the point system of professional tennis called Hawk-eye which allows a player to contest the line call of a point.
+        </string>
 </resources>

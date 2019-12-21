@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
     <RelativeLayout
-        xmlns:tools="http://schemas.android.com/tools"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         tools:context="com.ngamolsky.android.materialme.DetailActivity">
@@ -13,7 +13,8 @@
             android:id="@+id/sportsImageDetail"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:adjustViewBounds="true" />
+            android:adjustViewBounds="true"
+            tools:ignore="ContentDescription" />
 
         <TextView
             android:id="@+id/titleDetail"
@@ -22,7 +23,6 @@
             android:layout_height="wrap_content"
             android:layout_alignBottom="@+id/sportsImageDetail"
             android:padding="@dimen/padding"
-            android:text="@string/title_placeholder"
             android:theme="@style/ThemeOverlay.AppCompat.Dark" />
 
         <TextView
@@ -32,7 +32,6 @@
             android:layout_height="wrap_content"
             android:layout_below="@+id/sportsImageDetail"
             android:padding="@dimen/padding"
-            android:text="@string/news_placeholder"
             android:textColor="?android:textColorSecondary" />
 
         <TextView
@@ -41,8 +40,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_below="@+id/newsTitleDetail"
-            android:padding="@dimen/padding"
-            android:text="@string/subtitle_detail" />
-
+            android:text="@string/baseball_details"
+            android:padding="@dimen/padding" />
     </RelativeLayout>
 </ScrollView>
