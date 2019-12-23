@@ -1,12 +1,9 @@
 <!--
   Copyright 2016 Google Inc.
-
   Licensed under the Apache License, Version 2.0 (the "License");
   you may not use this file except in compliance with the License.
   You may obtain a copy of the License at
-
       http://www.apache.org/licenses/LICENSE-2.0
-
   Unless required by applicable law or agreed to in writing, software
   distributed under the License is distributed on an "AS IS" BASIS,
   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
@@ -23,7 +20,7 @@
 
     <string-array name="sports_titles">
         <item>Béisbol</item>
-        <item>Béisbol</item>
+        <item>Bádminton</item>
         <item>Baloncesto</item>
         <item>Bolos</item>
         <item>Ciclismo</item>
@@ -65,77 +62,77 @@
 
     <string-array name="sports_details">
         <item>El béisbol es un deporte de equipo compuesto por 9 entradas o segmentos del juego, donde el objetivo principal es hacer jonrones o rotaciones completas alrededor de cada una de las 4 bases.
-             Los jugadores se posicionan a través del campo en áreas específicas dependiendo de qué rol estén encabezando: campo, lanzamiento, bateo, arbitraje, etc. El equipo principal del bateo
-             el objetivo es que el bateador actual sea lanzado o lanzado al béisbol y, mientras esa pelota se pasa entre los miembros, haga que otro miembro del equipo corra a cada base hasta
-             eventualmente alcanzando el codiciado jonrón, si lo hacen. El equipo de campo, o el equipo defensivo, intenta evitar que los bateadores se conviertan en corredores, o evitar que lo hagan.
-             todo alrededor de las bases.</item>
+             Los jugadores se posicionan a través del campo en áreas específicas dependiendo de qué rol estén encabezando: campo, lanzamiento, bateo, arbitraje, etc. El equipo principal del bateo
+             el objetivo es que el bateador actual sea lanzado o lanzado al béisbol y, mientras esa pelota se pasa entre los miembros, haga que otro miembro del equipo corra a cada base hasta
+             eventualmente alcanzando el codiciado jonrón, si lo hacen. El equipo de campo, o el equipo defensivo, intenta evitar que los bateadores se conviertan en corredores, o evitar que lo hagan.
+             todo alrededor de las bases.</item>
         <item>El bádminton es un deporte que consiste en raquetas y pelotas pequeñas con cosas similares a redes llamadas volantes. El objetivo es golpear la pelota, o volante, sobre una red.
-            Este juego se juega comúnmente como lo que se llama individuales (un jugador por lado de la red) o dobles (2 jugadores en cada lado), aunque se puede jugar usando equipos más grandes.
-            Esto normalmente se juega afuera, pero esencialmente puedes jugar en cualquier lugar. Si está rastreando la puntuación, se obtienen puntos si el volante se rebota de la raqueta y golpea
-            el piso del espacio del piso del oponente (o del lado contrario) dentro de los límites (si se juega un juego formal con límites marcados). Se considera una jugada terminada si esto
-            sucede o se juega un juego sucio (llamado falta). La razón por la cual la pelota es una lanzadera se debe a su aspecto emplumado único que le da una mejor altura.
-            Otra palabra para esto es "arrastrar", que es otra forma de decir que desacelera más rápido que un tipo diferente de pelota. Esto también les permite una mayor velocidad.
+            Este juego se juega comúnmente como lo que se llama individuales (un jugador por lado de la red) o dobles (2 jugadores en cada lado), aunque se puede jugar usando equipos más grandes.
+            Esto normalmente se juega afuera, pero esencialmente puedes jugar en cualquier lugar. Si está rastreando la puntuación, se obtienen puntos si el volante se rebota de la raqueta y golpea
+            el piso del espacio del piso del oponente (o del lado contrario) dentro de los límites (si se juega un juego formal con límites marcados). Se considera una jugada terminada si esto
+            sucede o se juega un juego sucio (llamado falta). La razón por la cual la pelota es una lanzadera se debe a su aspecto emplumado único que le da una mejor altura.
+            Otra palabra para esto es "arrastrar", que es otra forma de decir que desacelera más rápido que un tipo diferente de pelota. Esto también les permite una mayor velocidad.
         </item>
         <item>El baloncesto es un deporte de contacto limitado con un total de diez miembros del equipo divididos en dos equipos. Estos juegos se pueden jugar en interiores o al aire libre, formal o informalmente.
-            En un entorno formal, el juego está delineado por límites marcados y líneas en el piso de madera que muestra dónde se encuentran los tiros libres, 2 y 3 punteros, etc. Cada equipo tiene un
-            gol separado en cada extremo de la cancha que tiene tableros para ayudar a aterrizar los tiros, de los cuales el otro equipo necesita bloquear los mates. Se otorgan puntos por hacer bolas
-            a través del aro para el lado respectivo de cada equipo. Un gol de campo puede valer 2 o 3 puntos, dependiendo de dónde se disparó (según las líneas mencionadas anteriormente).
-            Para mover la pelota de baloncesto a través de la cancha, los jugadores pueden pasar el uno al otro y / o regatear o rebotar. Se conoce como viajar si los jugadores se aferran a la pelota.
-            mientras camina o corre por la cancha, y esto va desde el mal visto hasta el motivo de una falta. Se llama una falta cuando un jugador infringe una regla o hiere a otro jugador
-            avanzar la jugada y esto lo determina un árbitro. El equipo ganador está determinado por el equipo que haya anotado más puntos al final del juego, a menos que sea un empate en el que
-            el caso de tiempo extra, o juego extendido, comienza. El baloncesto al aire libre, o el aro, generalmente se juega afuera (aunque hay excepciones). Estos juegos pueden seguir lo anterior
-            reglas o ser modificado de acuerdo con el conjunto de reglas del equipo. Esto se considera un deporte de culto como en el venerado en todo el mundo, tanto profesionalmente como de otro modo.
+            En un entorno formal, el juego está delineado por límites marcados y líneas en el piso de madera que muestra dónde se encuentran los tiros libres, 2 y 3 punteros, etc. Cada equipo tiene un
+            gol separado en cada extremo de la cancha que tiene tableros para ayudar a aterrizar los tiros, de los cuales el otro equipo necesita bloquear los mates. Se otorgan puntos por hacer bolas
+            a través del aro para el lado respectivo de cada equipo. Un gol de campo puede valer 2 o 3 puntos, dependiendo de dónde se disparó (según las líneas mencionadas anteriormente).
+            Para mover la pelota de baloncesto a través de la cancha, los jugadores pueden pasar el uno al otro y / o regatear o rebotar. Se conoce como viajar si los jugadores se aferran a la pelota.
+            mientras camina o corre por la cancha, y esto va desde el mal visto hasta el motivo de una falta. Se llama una falta cuando un jugador infringe una regla o hiere a otro jugador
+            avanzar la jugada y esto lo determina un árbitro. El equipo ganador está determinado por el equipo que haya anotado más puntos al final del juego, a menos que sea un empate en el que
+            el caso de tiempo extra, o juego extendido, comienza. El baloncesto al aire libre, o el aro, generalmente se juega afuera (aunque hay excepciones). Estos juegos pueden seguir lo anterior
+            reglas o ser modificado de acuerdo con el conjunto de reglas del equipo. Esto se considera un deporte de culto como en el venerado en todo el mundo, tanto profesionalmente como de otro modo.
         </item>
         <item>Los bolos pueden ser un deporte estilo torneo o jugarse recreativamente. Por lo general, se juega adentro donde hay varios carriles, abiertos o con barandas. los
-             el objetivo es lanzar / rodar una bola de boliche (una gran bola de mármol / cerámica con 3 agujeros en forma de triángulo para el pulgar y el índice. Los puntos se otorgan en función de
-             cuántos pines (o algún otro objetivo) puedes derribar. Derribarlos a todos en el primer turno de 2 se llama strike, y derribar todos los pines menos uno en el segundo
-             rodar un repuesto. Cada jugador obtiene 2 tiradas cada uno. En el bowling objetivo, o en los bolos que se juegan dentro o fuera, el objetivo es acercarse lo más posible a la marca. Esto es muy
-             deporte popular, jugado por más de 100 millones de personas en todo el mundo, tanto en vivo como en videojuegos.
+             el objetivo es lanzar / rodar una bola de boliche (una gran bola de mármol / cerámica con 3 agujeros en forma de triángulo para el pulgar y el índice. Los puntos se otorgan en función de
+             cuántos pines (o algún otro objetivo) puedes derribar. Derribarlos a todos en el primer turno de 2 se llama strike, y derribar todos los pines menos uno en el segundo
+             rodar un repuesto. Cada jugador obtiene 2 tiradas cada uno. En el bowling objetivo, o en los bolos que se juegan dentro o fuera, el objetivo es acercarse lo más posible a la marca. Esto es muy
+             deporte popular, jugado por más de 100 millones de personas en todo el mundo, tanto en vivo como en videojuegos.
         </item>
         <item>El ciclismo, también conocido como andar en bicicleta o andar en bicicleta, es el acto de andar en bicicleta como una forma de transporte, diversión, ejercicio o deporte. Estas personas se llaman comúnmente ciclistas o ciclistas, y
-             Puede usar bicicletas con cualquier número de ruedas (1, 2, 3, etc.). Esto ha existido desde el siglo XIX y continúa creciendo en popularidad, particularmente en espacios urbanos donde
-             El transporte de vehículos no es tan preferible. Las personas pueden andar en bicicleta en una competencia o distancias cortas y largas, dependiendo de sus necesidades. Todo esto junto no solo
-             reduce la contaminación de los combustibles fósiles, pero también tiene importantes beneficios para la salud, incluido un menor riesgo de enfermedades cardíacas, ciertos tipos de cáncer e incluso diabetes que tienen un alto nivel de
-             poblaciones o individuos que llevan un estilo de vida más sedentario o estacionario.
+             Puede usar bicicletas con cualquier número de ruedas (1, 2, 3, etc.). Esto ha existido desde el siglo XIX y continúa creciendo en popularidad, particularmente en espacios urbanos donde
+             El transporte de vehículos no es tan preferible. Las personas pueden andar en bicicleta en una competencia o distancias cortas y largas, dependiendo de sus necesidades. Todo esto junto no solo
+             reduce la contaminación de los combustibles fósiles, pero también tiene importantes beneficios para la salud, incluido un menor riesgo de enfermedades cardíacas, ciertos tipos de cáncer e incluso diabetes que tienen un alto nivel de
+             poblaciones o individuos que llevan un estilo de vida más sedentario o estacionario.
         </item>
         <item>El golf se puede jugar solo o en equipo. Puede ser profesional o menos formal (es decir, mini golf). El objetivo principal es usar un palo (varios tamaños y pesos son
-             disponible para estos) golpear una pequeña pelota de golf desde un tee (el soporte de la pelota) en el suelo en un hoyo. Golpearlo en un agujero en el primer intento se denomina apropiadamente
-             hoyo en uno. Fue creado en el Reino Unido del siglo XV y se introdujo como un deporte olímpico a principios del siglo XX. Lo que diferencia a este juego de los demás es el terreno en el que
-             se juega El atractivo de este juego se debe en gran medida a lo variados que pueden ser estos terrenos entre hoyos. Pueden incluir campos montañosos, instalaciones, estanques y lagos, trampas de arena,
-             terreno rocoso y más. Los juegos se pueden jugar por golpes, o por el menor número posible de golpes (o por contacto con la pelota desde el palo), o por partidos,
-             o la puntuación más baja en los hoyos más individuales en una ronda completa.
+             disponible para estos) golpear una pequeña pelota de golf desde un tee (el soporte de la pelota) en el suelo en un hoyo. Golpearlo en un agujero en el primer intento se denomina apropiadamente
+             hoyo en uno. Fue creado en el Reino Unido del siglo XV y se introdujo como un deporte olímpico a principios del siglo XX. Lo que diferencia a este juego de los demás es el terreno en el que
+             se juega El atractivo de este juego se debe en gran medida a lo variados que pueden ser estos terrenos entre hoyos. Pueden incluir campos montañosos, instalaciones, estanques y lagos, trampas de arena,
+             terreno rocoso y más. Los juegos se pueden jugar por golpes, o por el menor número posible de golpes (o por contacto con la pelota desde el palo), o por partidos,
+             o la puntuación más baja en los hoyos más individuales en una ronda completa.
         </item>
         <item>Correr como deporte ha tomado varias formas. Hay una maratón corriendo, que es donde mucha gente esencialmente compite para cruzar la línea de meta. Estos pueden ser desde uno
-             cientos de millas, y muchas veces pueden apoyar una causa u organización benéfica. También hay otra forma de competencia, que presenta algo llamado sprints en resumen rápido
-             intervalos de seguimiento. Los corredores compiten para ver quién termina el sprint más rápido, por lo que es una idea similar, aunque ligeramente diferente. En esta versión hay varias patas del
-             carrera. También verá correr como una característica de muchos otros deportes. Correr también puede ser una forma de ejercicio, ya sea en la cinta de correr, cerca de tu ciudad o como medio de transporte.
-             a ti mismo en alguna parte.
+             cientos de millas, y muchas veces pueden apoyar una causa u organización benéfica. También hay otra forma de competencia, que presenta algo llamado sprints en resumen rápido
+             intervalos de seguimiento. Los corredores compiten para ver quién termina el sprint más rápido, por lo que es una idea similar, aunque ligeramente diferente. En esta versión hay varias patas del
+             carrera. También verá correr como una característica de muchos otros deportes. Correr también puede ser una forma de ejercicio, ya sea en la cinta de correr, cerca de tu ciudad o como medio de transporte.
+             a ti mismo en alguna parte.
         </item>
         <item>El fútbol es un fenómeno mundial. En los estados, varias organizaciones lo dirigen, como la USSF o la Federación de Fútbol de los Estados Unidos, la NCAA y la Federación Nacional de Fútbol
-            Escuelas. Los equipos se dividen por género a nivel nacional. Con más de 9000 clubes y más de 4 millones de jugadores registrados solo en los estados, está claro cuán popular es como deporte. Esencialmente
-            consiste en patear una pelota alrededor del campo, mientras que el objetivo es que cada equipo llegue a la meta. Sin embargo, la captura no se permite manos. El portero o guardia de la portería,
-            puede desviar la pelota, frustrando efectivamente los puntos del lado contrario. Similar al baloncesto, la pelota puede pasar de jugador a jugador pateando y rodando. Desde los Estados Unidos
-            organizó la Copa Mundial de la FIFA (que es como el superbowl del fútbol, ​​si se compara con el fútbol tradicional), aquí se ha disparado su popularidad. El nivel más alto que los hombres pueden lograr en
-            este deporte es Major League Soccer o MLS, que resulta ser la liga de primera división más grande del mundo, con la tercera tasa de asistencia más alta después de la NFL y MLB (o National
-            Football League y Major League Baseball, respectivamente).
+            Escuelas. Los equipos se dividen por género a nivel nacional. Con más de 9000 clubes y más de 4 millones de jugadores registrados solo en los estados, está claro cuán popular es como deporte. Esencialmente
+            consiste en patear una pelota alrededor del campo, mientras que el objetivo es que cada equipo llegue a la meta. Sin embargo, la captura no se permite manos. El portero o guardia de la portería,
+            puede desviar la pelota, frustrando efectivamente los puntos del lado contrario. Similar al baloncesto, la pelota puede pasar de jugador a jugador pateando y rodando. Desde los Estados Unidos
+            organizó la Copa Mundial de la FIFA (que es como el superbowl del fútbol, ​​si se compara con el fútbol tradicional), aquí se ha disparado su popularidad. El nivel más alto que los hombres pueden lograr en
+            este deporte es Major League Soccer o MLS, que resulta ser la liga de primera división más grande del mundo, con la tercera tasa de asistencia más alta después de la NFL y MLB (o National
+            Football League y Major League Baseball, respectivamente).
         </item>
         <item>La natación puede ser un deporte individual o de equipo. En un entorno de equipo, cada individuo compite entre sí en sus propios carriles en una especie de relevo de 100 metros que se repite 4 veces,
-            al menos a nivel olímpico. Las competiciones de nivel inferior se llevan a cabo de manera similar. Los nadadores se zambullen desde el borde o desde una tabla y los jueces los cronometran con cronómetros para
-            Obtenga el momento más preciso posible. Este deporte es considerado el más popular de los deportes olímpicos, y tiene mucho peso en las escuelas y universidades. Hay varios estilos
-            de natación incorporada en estos relevos, como la mariposa, la braza, la espalda y el estilo libre. También hay algo llamado relevo combinado, que consta de 4 nadadores
-            nadar un trago diferente de los mencionados anteriormente, cada uno de los cuales requiere un conjunto estricto de técnicas. Del mismo modo estricto es el código de vestimenta en estos eventos. Incluso los gorros de natación usados ​​están regulados.
-            Este deporte tiene muchos beneficios potenciales en términos de salud, pero también conlleva un gran riesgo de lesiones, particularmente en los hombros y las rodillas, entre otras cosas.
+            al menos a nivel olímpico. Las competiciones de nivel inferior se llevan a cabo de manera similar. Los nadadores se zambullen desde el borde o desde una tabla y los jueces los cronometran con cronómetros para
+            Obtenga el momento más preciso posible. Este deporte es considerado el más popular de los deportes olímpicos, y tiene mucho peso en las escuelas y universidades. Hay varios estilos
+            de natación incorporada en estos relevos, como la mariposa, la braza, la espalda y el estilo libre. También hay algo llamado relevo combinado, que consta de 4 nadadores
+            nadar un trago diferente de los mencionados anteriormente, cada uno de los cuales requiere un conjunto estricto de técnicas. Del mismo modo estricto es el código de vestimenta en estos eventos. Incluso los gorros de natación usados ​​están regulados.
+            Este deporte tiene muchos beneficios potenciales en términos de salud, pero también conlleva un gran riesgo de lesiones, particularmente en los hombros y las rodillas, entre otras cosas.
         </item>
         <item>Tenis de mesa, también conocido como Ping Pong, es donde 4 jugadores golpean una pelota de ping pong de un lado a otro, intentando ganar puntos golpeándola sobre la red y rebotando contra la oposición.
-             lado de la mesa con raquetas. Al igual que el bádminton, los juegos pueden ser individuales o dobles, lo que significa uno o dos jugadores en cada lado cada uno. Se jugó por primera vez en los años 80 en la Inglaterra victoriana
-             pero se ha vuelto popular en muchos países desde entonces. Se incurre en puntos cuando los jugadores no pueden devolver la pelota en las reglas. Básicamente, quieres rebotarlo una vez de tu lado y al menos una vez
-             al otro lado de la mesa para hacerlo. Este juego progresa bastante rápido y puede ser bastante competitivo. Girar la pelota es una gran técnica para ser creativo con la trayectoria y el desorden
-             con tu oponente Este deporte se lleva a cabo tanto en los Juegos Olímpicos como en los Juegos Paralímpicos.
+             lado de la mesa con raquetas. Al igual que el bádminton, los juegos pueden ser individuales o dobles, lo que significa uno o dos jugadores en cada lado cada uno. Se jugó por primera vez en los años 80 en la Inglaterra victoriana
+             pero se ha vuelto popular en muchos países desde entonces. Se incurre en puntos cuando los jugadores no pueden devolver la pelota en las reglas. Básicamente, quieres rebotarlo una vez de tu lado y al menos una vez
+             al otro lado de la mesa para hacerlo. Este juego progresa bastante rápido y puede ser bastante competitivo. Girar la pelota es una gran técnica para ser creativo con la trayectoria y el desorden
+             con tu oponente Este deporte se lleva a cabo tanto en los Juegos Olímpicos como en los Juegos Paralímpicos.
         </item>
         <item>El tenis es otra raqueta o raqueta muy respetada. Este juego presenta singles, dobles y estructuras de jugador de equipo. Similar al tenis de mesa, el objetivo es golpear una pelota de tenis
-             sobre una red y rebotar en el lado del oponente (u oponentes). Es particularmente popular como deporte femenino, pero presenta todos los géneros. Es posible que haya oído hablar de él a través de Wimbledon, un tenis masivo
-             torneo. Esto se puede jugar como un deporte de interior o al aire libre. Al igual que el tenis de mesa, el objetivo principal es lograr que el oponente tenga dificultades para devolver la pelota de manera válida.
-             Recientemente ha habido una modificación en el sistema de puntos del tenis profesional llamado Hawk-eye que permite a un jugador disputar la línea de un punto.
+             sobre una red y rebotar en el lado del oponente (u oponentes). Es particularmente popular como deporte femenino, pero presenta todos los géneros. Es posible que haya oído hablar de él a través de Wimbledon, un tenis masivo
+             torneo. Esto se puede jugar como un deporte de interior o al aire libre. Al igual que el tenis de mesa, el objetivo principal es lograr que el oponente tenga dificultades para devolver la pelota de manera válida.
+             Recientemente ha habido una modificación en el sistema de puntos del tenis profesional llamado Hawk-eye que permite a un jugador disputar la línea de un punto.
         </item>
     </string-array>
 </resources>
