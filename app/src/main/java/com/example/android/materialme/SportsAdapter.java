@@ -26,7 +26,6 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 import com.bumptech.glide.Glide;
-import com.ngamolsky.android.materialme.DetailActivity;
 import java.util.ArrayList;
 
 /***
@@ -123,7 +122,7 @@ public class SportsAdapter extends RecyclerView.Adapter<SportsAdapter.ViewHolder
             Intent detailIntent = new Intent(mContext, DetailActivity.class);
             detailIntent.putExtra("title", currentSport.getTitle());
             detailIntent.putExtra("image_resource", currentSport.getImageResource());
-            //detailIntent.putExtra("details", currentSport.getDetails());
+            detailIntent.putExtra("details", currentSport.getDetails());
             mContext.startActivity(detailIntent);
         }
     }

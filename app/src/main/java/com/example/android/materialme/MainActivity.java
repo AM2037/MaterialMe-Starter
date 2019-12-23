@@ -112,7 +112,7 @@ public class MainActivity extends AppCompatActivity {
         //Get the resources from the XML file
         String[] sportsList = getResources().getStringArray(R.array.sports_titles);
         String[] sportsInfo = getResources().getStringArray(R.array.sports_info);
-        //String[] sportsDetails = getResources().getStringArray(R.array.sports_details);
+        String[] sportsDetails = getResources().getStringArray(R.array.sports_details);
         TypedArray sportsImageResources =
                 getResources().obtainTypedArray(R.array.sports_images);
 
@@ -122,7 +122,7 @@ public class MainActivity extends AppCompatActivity {
         //Create the ArrayList of Sports objects with the titles and information about each sport
         for(int i=0;i<sportsList.length;i++){
             mSportsData.add(new Sport(sportsList[i],sportsInfo[i],
-                    sportsImageResources.getResourceId(i,0)));
+                    sportsImageResources.getResourceId(i,0), sportsDetails[i]));
         }
 
         sportsImageResources.recycle();

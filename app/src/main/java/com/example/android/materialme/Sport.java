@@ -27,7 +27,7 @@ class Sport implements Parcelable {
     //Member variables representing the title and information about the sport
     private String title;
     private String info;
-    //private String details;
+    private String details;
     private final int imageResource;
 
     /**
@@ -35,11 +35,11 @@ class Sport implements Parcelable {
      * @param title The name if the sport.
      * @param info Information about the sport.
      */
-    Sport(String title, String info, int imageResource) {
+    Sport(String title, String info, int imageResource, String details) {
         this.title = title;
         this.info = info;
         this.imageResource = imageResource;
-        //this.details = details;
+        this.details = details;
     }
 
     private Sport(Parcel parcel) {
@@ -80,9 +80,9 @@ class Sport implements Parcelable {
         return imageResource;
     }
 
-    //String getDetails() {
-        //return details;
-    //}
+    String getDetails() {
+        return details;
+    }
 
     @Override
     public int describeContents() {
@@ -93,7 +93,7 @@ class Sport implements Parcelable {
     public void writeToParcel(Parcel dest, int flags) {
         dest.writeString(title);
         dest.writeString(info);
-        //dest.writeString(details);
+        dest.writeString(details);
         dest.writeInt(imageResource);
     }
 }
