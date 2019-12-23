@@ -1,9 +1,14 @@
-Material Me! Sample App (Starter Code)
+Prep for the Android Associates Developer Certification -- Used API 28 Android 9.0 (Pie) & Android Studio 
 ============
 
-This is the starter code for the practical on Material Design in the Android
-Developer Fundamentals course. It includes a fake data set that the student
-will use to improve the user experience using Material Design Principles.
+## Based on Google's Material Me! Sample App (Starter Code)
+
+Using the starter code for the practical on Material Design in the Android
+Developer Fundamentals course, I built upon it to add in swipe and drag touch
+functionality, sport detail screens expanded upon clicking each list item, 
+and localized and translated the app to support other languages. This application
+mainly focuses on drilling Material Design principles as well as further exploring
+the uses of intents and intent extras from Unit 1. 
 
 Pre-requisites
 --------------
@@ -13,12 +18,6 @@ For this app you should be familiar with:
 * Creating and editing elements using the Layout Editor, XML, and programmatically.
 * Using a RecyclerView to display a list.
 
-
-
-Getting Started
----------------
-
-1. Download and open the app in Android Studio.
 
 License
 -------
